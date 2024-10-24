@@ -9,7 +9,7 @@ To get started with this boilerplate, follow these steps:
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/seu-usuario/laravel-docker-boilerplate.git
+git clone https://github.com/diogooliveiracodes/laravel-docker-boilerplate.git
 ```
 
 
